@@ -6,6 +6,6 @@ res = polindrom(polin)
 print(res)
 
 
-nepolin = 'кот'
+nepolin = 'котт'
 res = polindrom(nepolin)
 print(res)
